@@ -4,7 +4,7 @@ import time
 import threading
 import logging
 
-# Comment modified on GitHub
+# Comment modified on GitHub - 2
 def click_link(url_choices, browser, thread_name, stop_thread):
     logging.info("Thread {0} starts".format(thread_name))
 
